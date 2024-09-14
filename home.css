@@ -1,6 +1,16 @@
 h1 {
-    color: rgb(0, 0, 255);
-    background-color: yellowgreen;
+    color: rgb(24, 99, 117);
     font-size: 200px;
     text-align: center;
+}
+
+button {
+    height: 200px;
+    width: 400px;
+    margin: 30px;
+    border-radius: 40px;
+}
+
+body {
+    background-color: rgb(110, 110, 231);
 }
